@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-Coursera Data Science
+Coursera - John Hopkins University Data Science
